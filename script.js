@@ -23,7 +23,7 @@ bayarButton.addEventListener('click', (e) => {
         // Kode untuk pembayaran QRIS
         paymentContainer.innerHTML = `
             <h2>Pembayaran melalui QRIS</h2>
-            <img src="${https://files.catbox.moe/daqljh.jpg}" alt="QR Code">
+            <img src="${ https://files.catbox.moe/daqljh.jpg }" alt="QR Code">
         `/* https://files.catbox.moe/daqljh.jpg */}" alt="QR Code">
         `;
     }
